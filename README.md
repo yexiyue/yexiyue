@@ -66,7 +66,11 @@ Here are some ideas to get you started:
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=yexiyue&color=green)
+<img align="right" src="https://count.getloli.com/get/@:yexiyue?theme=rule34">
 [![Github](https://img.shields.io/github/followers/yexiyue?label=Github&style=social)](https://github.com/yexiyue)
+<a href="https://github.com/yexiyue">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
+</a>
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=yexiyue&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />

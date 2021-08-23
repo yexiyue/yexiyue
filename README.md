@@ -14,7 +14,7 @@
 -  😄Pronouns: ...
 -  ⚡我是个有趣的人哦~
 
-
+<img align="right" src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
 
 
 **Languages and Tools:**  

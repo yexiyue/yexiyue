@@ -13,7 +13,9 @@
 -  ⚡我是个有趣的人哦~
 
 
-<img align="right" src="https://count.getloli.com/get/@:yexiyue?theme=rule34">
+<a href="https://github.com/yexiyue">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
+</a>
 
 **Languages and Tools:**  
 

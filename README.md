@@ -1,7 +1,9 @@
 # Hi,I'm 叶师傅! 👋
 大前端开发工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=yexiyue&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<a href="https://github.com/yexiyue">
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
+</a>
 
 -  🔭我在河南理工大学上学
 -  🌱我目前在学习如何成为大佬
@@ -13,9 +15,7 @@
 -  ⚡我是个有趣的人哦~
 
 
-<a href="https://github.com/yexiyue">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
-</a>
+
 
 **Languages and Tools:**  
 

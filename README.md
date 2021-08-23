@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ## Languages
 <a href="https://github.com/yexiyue">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&theme=vue" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&theme=vue" />
 </a>
 <a href="https://github.com/yexiyue">
   <img align="rigth" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />

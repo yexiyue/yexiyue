@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://pluspng.com/img-png/nodejs-png--400.png"></code>    
 
 
-<a href="https://github.com/yexiyue">
-  <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
-</a>
-
 <!--
 **yexiyue/yexiyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

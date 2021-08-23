@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/yexiyue">
   <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
 </a>
-
+<a href="https://github.com/yexiyue">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
+</a>
 
 <!--
 **yexiyue/yexiyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,7 +70,6 @@ Here are some ideas to get you started:
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=yexiyue&color=green)
-<img align="right" src="https://count.getloli.com/get/@:yexiyue?theme=rule34">
 [![Github](https://img.shields.io/github/followers/yexiyue?label=Github&style=social)](https://github.com/yexiyue)
 
 

@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
- 我希望我的github可以有很多
 <img align="right" src="https://count.getloli.com/get/@:yexiyue?theme=rule34">
 
 **Languages and Tools:**  
@@ -54,19 +52,19 @@ Here are some ideas to get you started:
 
 
 
-# Hi,I'm RenShiWei! 👋
+# Hi,I'm 叶师傅! 👋
 大前端开发工程师
 
 <img src="https://github-readme-stats.vercel.app/api?username=yexiyue&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
--   我在河南理工大学上学
--  我目前在学习如何成为大佬
--  希望结识更多的小伙伴
--  我希望我的github可以有很多
--  我的QQ：30666921758
--  我的电话：15881815560
--  Pronouns: ...
--  我是个有趣的人哦~
+-  🔭我在河南理工大学上学
+-  🌱我目前在学习如何成为大佬
+-  👯希望结识更多的小伙伴
+-  🤔我希望我的github可以有很多
+-  💬 我的QQ：30666921758
+-  📫我的电话：15881815560
+-  😄Pronouns: ...
+-  ⚡我是个有趣的人哦~
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=yexiyue&color=green)

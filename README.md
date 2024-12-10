@@ -25,7 +25,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"></code>
 <code><img height="20" src="https://pluspng.com/img-png/nodejs-png--400.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code> 
-<code><img height="20" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"></code>
+<code><img height="20" src="https://logodix.com/logo/700854.png"></code>
 
 
 

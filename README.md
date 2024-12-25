@@ -7,7 +7,6 @@
 -  🔭河南理工大学24届毕业生
 -  🌱我目前在学习如何成为大佬
 -  💬 我的QQ：30666921758
--  😄Pronouns: ...
 
 <img align="right" src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
 

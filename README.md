@@ -8,7 +8,7 @@
 -  🌱我目前在学习如何成为大佬
 -  💬 我的QQ：30666921758
 
-<img align="right" src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
+
 
 
 
@@ -25,12 +25,10 @@
 <code><img height="20" src="https://pluspng.com/img-png/nodejs-png--400.png"></code>
 
 
-
-
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=yexiyue&color=green)
 [![Github](https://img.shields.io/github/followers/yexiyue?label=Github&style=social)](https://github.com/yexiyue)
-
+<img align="right" src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=yexiyue&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />

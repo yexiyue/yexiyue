@@ -44,8 +44,3 @@
 </a>
 
 
-## My Github Status 🦸
-
-
-![](https://activity-graph.herokuapp.com/graph?username=yexiyue&theme=github)
-

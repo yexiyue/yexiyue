@@ -12,6 +12,10 @@
 <img align="right" src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
 
 
+
+
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>

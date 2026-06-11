@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg" />
-  <img src="./assets/signature-light.svg" width="316" alt="Hi, I'm yexiyue" />
+  <img src="./assets/signature-light.svg" width="278" alt="Hi, I'm yexiyue" />
 </picture>
 
 I build **local-first, peer-to-peer apps** with Rust and TypeScript.

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg" />
-  <img src="./assets/signature-light.svg" width="380" alt="yexiyue" />
+  <img src="./assets/signature-light.svg" width="316" alt="Hi, I'm yexiyue" />
 </picture>
 
 I build **local-first, peer-to-peer apps** with Rust and TypeScript.
@@ -24,9 +24,11 @@ Building [**swarm-apps**](https://github.com/swarm-apps), a family of decentrali
 
 ## Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,nextjs,nodejs,wasm" height="36" alt="Rust, TypeScript, React, Tauri, Next.js, Node.js, WebAssembly" />
-</a>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,nextjs,nodejs,wasm" height="36" alt="Rust, TypeScript, React, Tauri, Next.js, Node.js, WebAssembly" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />

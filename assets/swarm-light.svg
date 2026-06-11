@@ -1,0 +1,85 @@
+<svg width="720" height="150" viewBox="0 0 720 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- static mesh -->
+  <g stroke="#0969da" stroke-opacity="0.2" stroke-width="1">
+    <line x1="60" y1="78" x2="150" y2="38"/>
+    <line x1="60" y1="78" x2="140" y2="112"/>
+    <line x1="150" y1="38" x2="255" y2="70"/>
+    <line x1="140" y1="112" x2="255" y2="70"/>
+    <line x1="255" y1="70" x2="345" y2="26"/>
+    <line x1="255" y1="70" x2="370" y2="116"/>
+    <line x1="345" y1="26" x2="470" y2="60"/>
+    <line x1="370" y1="116" x2="470" y2="60"/>
+    <line x1="470" y1="60" x2="575" y2="100"/>
+    <line x1="470" y1="60" x2="610" y2="30"/>
+    <line x1="575" y1="100" x2="672" y2="72"/>
+    <line x1="610" y1="30" x2="672" y2="72"/>
+    <line x1="140" y1="112" x2="225" y2="128"/>
+    <line x1="225" y1="128" x2="370" y2="116"/>
+    <line x1="345" y1="26" x2="520" y2="18"/>
+    <line x1="520" y1="18" x2="610" y2="30"/>
+    <line x1="150" y1="38" x2="345" y2="26"/>
+  </g>
+  <!-- active links: traveling pulses -->
+  <g stroke="#0969da" stroke-opacity="0.85" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="3 15">
+    <line x1="150" y1="38" x2="255" y2="70">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="2.4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="255" y1="70" x2="370" y2="116">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="2.8s" begin="-1.2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="345" y1="26" x2="470" y2="60">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="2.2s" begin="-0.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="470" y1="60" x2="575" y2="100">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="3s" begin="-1.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="610" y1="30" x2="672" y2="72">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="2.6s" begin="-0.3s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <!-- hub ripple -->
+  <g stroke="#0969da" fill="none" stroke-width="1">
+    <circle cx="255" cy="70" r="6">
+      <animate attributeName="r" values="6;26" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.5;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="255" cy="70" r="6">
+      <animate attributeName="r" values="6;26" dur="3s" begin="-1.5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.5;0" dur="3s" begin="-1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- accent nodes -->
+  <g fill="#0969da">
+    <circle cx="255" cy="70" r="6">
+      <animate attributeName="r" values="6;7.2;6" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="38" r="4">
+      <animate attributeName="r" values="4;5;4" dur="3.2s" begin="-1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="470" cy="60" r="5">
+      <animate attributeName="r" values="5;6;5" dur="3.8s" begin="-2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="672" cy="72" r="4.5">
+      <animate attributeName="r" values="4.5;5.4;4.5" dur="3.4s" begin="-0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="370" cy="116" r="4.5">
+      <animate attributeName="r" values="4.5;5.4;4.5" dur="3s" begin="-1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- neutral nodes -->
+  <g fill="#6e7781" fill-opacity="0.8">
+    <circle cx="60" cy="78" r="4.5">
+      <animate attributeName="r" values="4.5;5.2;4.5" dur="4s" begin="-2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="345" cy="26" r="4">
+      <animate attributeName="r" values="4;4.8;4" dur="3.6s" begin="-0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="575" cy="100" r="4">
+      <animate attributeName="r" values="4;4.8;4" dur="3.3s" begin="-1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="610" cy="30" r="3.5"/>
+    <circle cx="140" cy="112" r="3.5"/>
+    <circle cx="225" cy="128" r="3"/>
+    <circle cx="520" cy="18" r="3"/>
+  </g>
+</svg>

@@ -1,5 +1,10 @@
 # Hey, I'm yexiyue
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/swarm-dark.svg" />
+  <img src="./assets/swarm-light.svg" width="100%" alt="" />
+</picture>
+
 I build **local-first, peer-to-peer apps** with Rust and TypeScript.
 Mostly frontend and cross-platform (Tauri / React Native), with just enough backend to ship the whole thing.
 
@@ -21,7 +26,9 @@ Building [**swarm-apps**](https://github.com/swarm-apps), a family of decentrali
 
 ## Stack
 
-[![Skills](https://skillicons.dev/icons?i=rust,ts,react,vue,tauri,nextjs,nodejs,wasm&perline=8)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,nextjs,nodejs,wasm" height="36" alt="Rust, TypeScript, React, Tauri, Next.js, Node.js, WebAssembly" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />

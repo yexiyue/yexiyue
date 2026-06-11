@@ -1,39 +1,33 @@
-# Hi,I'm yexiyue! 👋
+# Hey, I'm yexiyue
 
-<a href="https://github.com/yexiyue">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
-</a>
+I build **local-first, peer-to-peer apps** with Rust and TypeScript.
+Mostly frontend and cross-platform (Tauri / React Native), with just enough backend to ship the whole thing.
 
--  🔭河南理工大学24届毕业生
--  🌱我目前在学习如何成为大佬
--  💬 我的QQ：30666921758
+## Now
 
-**Languages and Tools:**  
+Building [**swarm-apps**](https://github.com/swarm-apps), a family of decentralized apps on top of [libp2p](https://libp2p.io):
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
-<code><img height="20" src="https://logodix.com/logo/700854.png"></code>
-<code><img height="20" src="https://clipground.com/images/react-logo-png-7.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"></code>
-<code><img height="20" src="https://pluspng.com/img-png/nodejs-png--400.png"></code>
+- [**SwarmDrop**](https://github.com/swarm-apps/SwarmDrop) - cross-network, end-to-end encrypted P2P file transfer. Think LocalSend, but it works across the internet.
+- [**SwarmNote**](https://github.com/swarm-apps/SwarmNote) - local-first Markdown notes that sync between your own devices via CRDT. No account, no cloud, no subscription.
+- [**swarm-p2p**](https://github.com/swarm-apps/swarm-p2p) - the Rust networking layer underneath: mDNS + DHT discovery, NAT traversal, typed request-response.
+- [**SwarmHive**](https://github.com/swarm-apps/SwarmHive) - self-hosted release and update hub for Tauri and React Native apps.
 
+## Selected work
 
-## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=yexiyue&color=green)
-[![Github](https://img.shields.io/github/followers/yexiyue?label=Github&style=social)](https://github.com/yexiyue)
-<br/>
-<img src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
+- [**ComfyUI-Startup**](https://github.com/yexiyue/Comfyui-Startup) - desktop launcher for ComfyUI, built with Tauri and Rust
+- [**TRNovel**](https://github.com/yexiyue/TRNovel) - a novel reader that lives in your terminal
+- [**ratatui-kit**](https://github.com/yexiyue/ratatui-kit) - component-style framework for building Ratatui TUIs
+- [**dialogue-macro**](https://github.com/yexiyue/dialogue-macro) - declarative CLI prompts via Rust macros
 
-## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=yexiyue&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+## Stack
 
+[![Skills](https://skillicons.dev/icons?i=rust,ts,react,vue,tauri,nextjs,nodejs,wasm&perline=8)](https://skillicons.dev)
 
-## Languages
-<a href="https://github.com/yexiyue">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&theme=vue" />
-</a>
-<a href="https://github.com/yexiyue">
-  <img align="rigth" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiyue&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yexiyue&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+</picture>
 
+## Reach me
 
+[yexiyue666@qq.com](mailto:yexiyue666@qq.com)

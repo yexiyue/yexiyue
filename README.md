@@ -1,8 +1,6 @@
-# Hey, I'm yexiyue
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/swarm-dark.svg" />
-  <img src="./assets/swarm-light.svg" width="100%" alt="" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg" />
+  <img src="./assets/signature-light.svg" width="380" alt="yexiyue" />
 </picture>
 
 I build **local-first, peer-to-peer apps** with Rust and TypeScript.
